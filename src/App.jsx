@@ -84,7 +84,7 @@ function App() {
           </h1>
           <div className="app-author">(by Divyansh Khatter)</div>
           <p className="app-tagline">
-            Explains the new and old webpage ranking system of Google
+            Explains and shows the new and old webpage ranking system of Google
           </p>
         </div>
       </header>
