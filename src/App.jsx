@@ -66,7 +66,21 @@ function App() {
         </button>
         <div className="header-content">
           <h1 className="app-title">
-            <span className="title-icon">🔍</span> MINI GOOGLE
+            <span className="title-icon">🔍</span>{' '}
+            <span className="logo-word mini-word">
+              <span className="google-blue">M</span>
+              <span className="google-red">I</span>
+              <span className="google-yellow">N</span>
+              <span className="google-green">I</span>
+            </span>{' '}
+            <span className="logo-word google-word">
+              <span className="google-blue">G</span>
+              <span className="google-red">O</span>
+              <span className="google-yellow">O</span>
+              <span className="google-blue">G</span>
+              <span className="google-green">L</span>
+              <span className="google-red">E</span>
+            </span>
           </h1>
           <div className="app-author">(by Divyansh Khatter)</div>
           <p className="app-tagline">
